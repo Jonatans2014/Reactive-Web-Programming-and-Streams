@@ -1,0 +1,17 @@
+
+
+.watch {
+    margin: 8px 8px;
+    display: inline-block;
+    min-width: 64px;
+    float: left;
+    width: 200px;
+    margin-right: 24px;
+    text-align: center;
+}
+
+.stopwatch {
+    width: 100%;
+    white-space: nowrap;
+}
+

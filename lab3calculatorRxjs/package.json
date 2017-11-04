@@ -1,0 +1,20 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "rich web lab3",
+  "main": "app.js",
+  "dependencies": {
+    "rxjs": "^5.5.2"
+  },
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  },
+  "scripts": {
+    "webpack": "webpack keyboard.js bundle.js"
+  },
+  "keywords": [
+    "john"
+  ],
+  "author": "john",
+  "license": "MIT"
+}
